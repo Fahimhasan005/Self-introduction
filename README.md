@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fahimhasan005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Fahim Hasan born in Bangladesh, Studied in Shanghai,lives in Tokyo,Japan.
+- 👀 I’m interested in sustainable ,creative innovation.
+- 🌱 I’m currently learning Backend development.
+- 💞️ I’m looking to collaborate on creating new flatform for business more specifically(Designer, Web developer and Backend Engineer).
+- 📫 Reach me LinkdIn, Instagram,Twitter,Facebook,Line & Wechat.
 
 <!---
 Fahimhasan005/Fahimhasan005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
