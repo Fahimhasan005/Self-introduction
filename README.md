@@ -2,7 +2,7 @@
 - 👀 I’m interested in sustainable ,creative innovation.
 - 🌱 I’m currently learning Backend development.
 - 💞️ I’m looking to collaborate on creating new flatform for business more specifically(Designer, Web developer and Backend Engineer).
-- 📫 Reach me LinkdIn, Instagram,Twitter,Facebook,Line & Wechat.
+- 📫 Reach me LinkedIn, Instagram,Twitter,Facebook,Line & Wechat.
 
 <!---
 Fahimhasan005/Fahimhasan005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
