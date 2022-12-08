@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fahim Hasan born in Bangladesh, Studied in Shanghai,lives in Tokyo,Japan.
 - 👀 I’m interested in sustainable ,creative innovation.
-- 🌱 I’m currently learning Backend development.
+- 🌱 I’m full stake web developer.
 - 💞️ I’m looking to collaborate on creating new flatform for business more specifically(Designer, Web developer and Backend Engineer).
 - 📫 Reach me LinkedIn, Instagram,Twitter,Facebook,Line & Wechat.
 
